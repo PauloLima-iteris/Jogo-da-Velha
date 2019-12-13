@@ -1,0 +1,39 @@
+h2{
+    margin-left: 330px;
+    font-family: arial;
+    font-size: 25px;
+}
+img{
+    border:"0";
+    height: 80px;
+    width: 80px;
+}
+p{
+    float: left;
+    margin-right: 10px;
+
+}
+.campo{
+    width: 100px;
+    height: 90px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+}
+.geral{
+    width: 312px;
+    height: 312px;
+    margin: auto;
+}
+button{
+    margin-bottom: 30px;
+}
+#inicio{
+    margin: auto;
+    margin-bottom: 30px;
+    width: 312px;
+    height: 80px;
+}
